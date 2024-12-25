@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "name": "Fast Scan",
-    "author": "Nhocconsr",
+    "name": "Fast Scan5",
+    "author": "Mia",
     "version": 4,
     "source": "https://fastscans5.net",
     "regexp": "(www.)?fastscans\\d+.net/truyen-tranh/[0-9a-z-]+",
