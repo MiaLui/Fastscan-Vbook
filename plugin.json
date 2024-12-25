@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "author": "Mia",
+    "description": "Tuỳ chỉnh"
+  },
+  "data": [
+    {
+      "name": "Fast Scan",
+      "author": "Nhocconsr",
+      "path": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/fastscans/plugin.zip",
+      "version": 4,
+      "source": "https://fastscans3.net",
+      "icon": "https://raw.githubusercontent.com/nhocconsr/vbook-ext/master/fastscans/icon.png",
+      "description": "Đọc truyện trên trang Fastscans",
+      "type": "comic",
+      "locale": "vi_VN",
+      "tag": "nsfw"
+      }
+    ]
+}
